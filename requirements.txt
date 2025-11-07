@@ -1,4 +1,4 @@
-# Version 1
+# VERSION 1
 
 flask
 flask_sqlalchemy
@@ -10,5 +10,6 @@ reportlab
 qrcode
 pillow
 flask_mail
+psycopg2-binary
 
-# Version 1
+# VERSION 1
